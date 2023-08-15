@@ -1,0 +1,48 @@
+{
+  "videos": [
+    {
+      "id": "2",
+      "caption": "Luminar Technolab",
+      "thumbnail": "https://i.pinimg.com/280x280_RS/e7/11/5e/e7115ebbbea2a4f468e6eaa6f98d80a4.jpg",
+      "url": "https://www.youtube.com/embed/OqyURAoQ4NQ"
+    },
+    {
+      "id": "3",
+      "caption": "En Roja Neeye",
+      "thumbnail": "https://www.ilyricshub.com/wp-content/uploads/2023/05/en-roja-neeye-kushi.jpg",
+      "url": "https://www.youtube.com/embed/XmwH3_8iUYY"
+    },
+    {
+      "id": "4",
+      "caption": "Elankaathu Veesuthey",
+      "thumbnail": "https://tse4.mm.bing.net/th?id=OIP.goaH_KCoEoZLD0jagZyUrQHaEK&pid=Api&P=0&h=180",
+      "url": "https://www.youtube.com/embed/rdtQwjuwlrw"
+    },
+    {
+      "id": "10",
+      "caption": "Unakkul naane",
+      "thumbnail": "https://i.ytimg.com/vi/36-_DzaXXB0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/Gy49PgUCas4"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "categoryName": "Luminar Technolab",
+      "allvideos": []
+    },
+    {
+      "id": "2",
+      "categoryName": "Favorites",
+      "allvideos": []
+    }
+  ],
+  "watchhistory":[
+    {
+      "id":1,
+      "cardname":"En Roja neeye",
+      "url":"https://www.youtube.com/embed/XmwH3_8iUYY",
+      "date":"14/8/2023"
+    }
+  ]
+}
